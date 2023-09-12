@@ -2,10 +2,8 @@
 
 <p align="center">Organiza tu vida, simplifica tus tareas, ¡To-Do Listo te ayuda a lograrlo todo!"</p>
 
-<p align="center">
-  <a href="Licencia">MIT</a>
-  <a href="Version">Wev</a>
-</p>
+[![Author](https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github)](https://github.com/DikaArdnt)
+[![Recode](https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github)](https://github.com/zeeone-ofc/Alphabot-Md)
 ---
 
 <h3 align="center">Información</h3>
