@@ -48,8 +48,10 @@ Gerente de logística: Pedro Caso
 Gerente de Publicidad: Dark
 Gerente de Comercialización: Anderson Canto
 
-## Patrocinador:
+<h3 align="center">Patrocinador</h3>
 Alexito Entertainment
+
+<p align="center">--------------</p>
 
 > [!NOTE]
 > Esta aplicación esta desarrollada por los estudiantes de la Institución Educativa Mariscal Castilla
