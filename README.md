@@ -28,13 +28,10 @@
 To-Do Listo es tu compañero confiable en la gestión de tareas, diseñado para estudiantes, profesionales y cualquier persona que busque mantenerse organizada en un mundo ocupado. Simplifica tu vida y aumenta tu productividad con Task Organizer. ¡Descarga la aplicación ahora y descubre una forma más eficiente de administrar tus responsabilidades!"
 
 <h3 align="center">Software</h3>
-
 - Dispositivo: `Android, iOS`
 - versión: `v0.x`
 - Inteligencia Artificial: `Yana AI`
-
 - Estado: `Desarrollo`
-
 - App Store: `Beta v0.3`
 - Play Store `No disponible`
 
@@ -43,11 +40,11 @@ En un colegio, un estudiante tiene dificultades para administrar su tiempo y con
 
 <h3 align="center">Equipo</h3>
 
-**Gerente General**: Edson Carhuaricra
-**Gerente de Producción**: Alexis Mendez
-**Gerente de logística**: Pedro Caso
-**Gerente de Publicidad**: Dark
-**Gerente de Comercialización**: Anderson Canto
+- **Gerente General**: Edson Carhuaricra
+- **Gerente de Producción**: Alexis Mendez
+- **Gerente de logística**: Pedro Caso
+- **Gerente de Publicidad**: Dark
+- **Gerente de Comercialización**: Anderson Canto
 
 <h3 align="center">Patrocinador</h3>
 <p align="center">Alexito Entertainment</p>
