@@ -1,4 +1,4 @@
-<h2 align="center">Task Organizer</h2>
+<h2 align="center">To-Do Listo</h2>
 
 <p align="center">Organiza tu vida, simplifica tus tareas, ¡Task Organizer te ayuda a lograrlo todo!"</p>
 
@@ -9,7 +9,7 @@
 
 <h3 align="center">Información</h3>
 
-"¡Bienvenido a `Task Organizer`, la aplicación definitiva para llevar la gestión de tareas y la planificación de tu vida al siguiente nivel! Con Task Organizer, podrás organizar tus responsabilidades de manera efectiva y mantenerte al tanto de tus tareas diarias, semanales y mensuales de manera simple y eficiente.
+"¡Bienvenido a `To-Do Listo`, la aplicación definitiva para llevar la gestión de tareas y la planificación de tu vida al siguiente nivel! Con Task Organizer, podrás organizar tus responsabilidades de manera efectiva y mantenerte al tanto de tus tareas diarias, semanales y mensuales de manera simple y eficiente.
 
 **Características Destacadas**:
 
@@ -25,18 +25,18 @@
 
 - **Sincronización Multiplataforma**: Accede a tus tareas desde cualquier dispositivo gracias a la sincronización en la nube.
 
-Task Organizer es tu compañero confiable en la gestión de tareas, diseñado para estudiantes, profesionales y cualquier persona que busque mantenerse organizada en un mundo ocupado. Simplifica tu vida y aumenta tu productividad con Task Organizer. ¡Descarga la aplicación ahora y descubre una forma más eficiente de administrar tus responsabilidades!"
+To-Do Listo es tu compañero confiable en la gestión de tareas, diseñado para estudiantes, profesionales y cualquier persona que busque mantenerse organizada en un mundo ocupado. Simplifica tu vida y aumenta tu productividad con Task Organizer. ¡Descarga la aplicación ahora y descubre una forma más eficiente de administrar tus responsabilidades!"
 
 <h3 align="center">Software</h3>
 
-Dispositivo: `Android, iOS`
-versión: `v0.x`
-Inteligencia Artificial: `Yana AI`
+- Dispositivo: `Android, iOS`
+- versión: `v0.x`
+- Inteligencia Artificial: `Yana AI`
 
-Estado: `Desarrollo`
+- Estado: `Desarrollo`
 
-App Store: `Beta v0.3`
-Play Store `No disponible`
+- App Store: `Beta v0.3`
+- Play Store `No disponible`
 
 <h3 align="center">Proyecto "Juntos Por Un Futuro Mejor"</h3>
 En un colegio, un estudiante tiene dificultades para administrar su tiempo y concluir con sus responsabilidades académicas
