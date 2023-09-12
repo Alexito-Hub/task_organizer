@@ -31,3 +31,6 @@ Alexito Entertainment
 
 > [!IMPORTANT]
 > Esta aplicación esta en desarrollo, por lo que aun no esta disponible en la Play Store
+
+> [!WARNING]
+> Esta Nueva Aplicación agrega Tecnología API de terceros
