@@ -2,6 +2,10 @@
 
 <p align="center">Organiza tu vida, simplifica tus tareas, ¡To-Do Listo te ayuda a lograrlo todo!"</p>
 
+<p align="center">
+  <a href="Licencia">MIT</a>
+  <a href="Version">Wev</a>
+</p>
 ---
 
 <h3 align="center">Información</h3>
