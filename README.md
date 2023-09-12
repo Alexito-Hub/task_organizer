@@ -28,6 +28,7 @@
 To-Do Listo es tu compañero confiable en la gestión de tareas, diseñado para estudiantes, profesionales y cualquier persona que busque mantenerse organizada en un mundo ocupado. Simplifica tu vida y aumenta tu productividad con Task Organizer. ¡Descarga la aplicación ahora y descubre una forma más eficiente de administrar tus responsabilidades!"
 
 <h3 align="center">Software</h3>
+
 - Dispositivo: `Android, iOS`
 - versión: `v0.x`
 - Inteligencia Artificial: `Yana AI`
