@@ -7,6 +7,7 @@
   <a href="https://github.com/mayTermux/awesomeshot/releases"><img src="https://img.shields.io/github/release/mayTermux/myTermux.svg"></a>
 </p>
 
+<h3 align="center">Información</h3>
 
 "¡Bienvenido a `Task Organizer`, la aplicación definitiva para llevar la gestión de tareas y la planificación de tu vida al siguiente nivel! Con Task Organizer, podrás organizar tus responsabilidades de manera efectiva y mantenerte al tanto de tus tareas diarias, semanales y mensuales de manera simple y eficiente.
 
