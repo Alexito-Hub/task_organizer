@@ -1,8 +1,8 @@
 <h2 align="center">To-Do Listo</h2>
 
-<p align="center">Organiza tu vida, simplifica tus tareas, ¡Task Organizer te ayuda a lograrlo todo!"</p>
+<p align="center">Organiza tu vida, simplifica tus tareas, ¡To-Do Listo te ayuda a lograrlo todo!"</p>
 
-----
+---
 
 <h3 align="center">Información</h3>
 
