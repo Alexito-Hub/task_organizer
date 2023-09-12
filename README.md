@@ -1,8 +1,12 @@
-# Organizador de Tareas
+<h1 align="center">Task Organizer</h1>
 
-**Descripción de la Aplicación "Task Organizer"**:
+<p align="center">Organiza tu vida, simplifica tus tareas, ¡Task Organizer te ayuda a lograrlo todo!"</p>
 
-"¡Bienvenido a 'Task Organizer', la aplicación definitiva para llevar la gestión de tareas y la planificación de tu vida al siguiente nivel! Con Task Organizer, podrás organizar tus responsabilidades de manera efectiva y mantenerte al tanto de tus tareas diarias, semanales y mensuales de manera simple y eficiente.
+<p align="center">
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL-blue.svg"></a>
+  <a href="https://github.com/mayTermux/awesomeshot/releases"><img src="https://img.shields.io/github/release/mayTermux/myTermux.svg"></a>
+</p>
+"¡Bienvenido a `Task Organizer`, la aplicación definitiva para llevar la gestión de tareas y la planificación de tu vida al siguiente nivel! Con Task Organizer, podrás organizar tus responsabilidades de manera efectiva y mantenerte al tanto de tus tareas diarias, semanales y mensuales de manera simple y eficiente.
 
 **Características Destacadas**:
 
