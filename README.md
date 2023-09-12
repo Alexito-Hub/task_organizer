@@ -4,14 +4,14 @@ Organizador de Tareas
 
 ## Software
 
-Dispositivo: 'Android, iOS'
-versión: 'v0.x'
-Inteligencia Artificial: 'Yana AI'
+Dispositivo: `Android, iOS`
+versión: `v0.x`
+Inteligencia Artificial: `Yana AI`
 
-Estado: Desarrollo
+Estado: `Desarrollo`
 
-App Store: 'Beta v0.3'
-Play Store 'No disponible'
+App Store: `Beta v0.3`
+Play Store `No disponible`
 
 ## Proyecto "Juntos Por Un Futuro Mejor"
 En un colegio, un estudiante tiene dificultades para administrar su tiempo y concluir con sus responsabilidades académicas
