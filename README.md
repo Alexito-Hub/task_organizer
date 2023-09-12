@@ -50,7 +50,7 @@ En un colegio, un estudiante tiene dificultades para administrar su tiempo y con
 **Gerente de Comercialización**: Anderson Canto
 
 <h3 align="center">Patrocinador</h3>
-Alexito Entertainment
+<p align="center">Alexito Entertainment</p>
 
 <p align="center">--------------</p>
 
