@@ -41,7 +41,7 @@ Play Store `No disponible`
 <h3 align="center">Proyecto "Juntos Por Un Futuro Mejor"</h3>
 En un colegio, un estudiante tiene dificultades para administrar su tiempo y concluir con sus responsabilidades académicas
 
-<h3 align="center">Grupo Cinco</h3>
+<h3 align="center">Equipo</h3>
 
 **Gerente General**: Edson Carhuaricra
 **Gerente de Producción**: Alexis Mendez
