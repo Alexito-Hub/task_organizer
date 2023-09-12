@@ -28,3 +28,6 @@ Alexito Entertainment
 
 > [!NOTE]
 > Esta aplicación esta desarrollada por los estudiantes de la Institución Educativa Mariscal Castilla
+
+> [!IMPORTANT]
+> Esta aplicación esta en desarrollo, por lo que aun no esta disponible en la Play Store
