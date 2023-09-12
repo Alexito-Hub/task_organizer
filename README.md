@@ -27,7 +27,7 @@
 
 Task Organizer es tu compañero confiable en la gestión de tareas, diseñado para estudiantes, profesionales y cualquier persona que busque mantenerse organizada en un mundo ocupado. Simplifica tu vida y aumenta tu productividad con Task Organizer. ¡Descarga la aplicación ahora y descubre una forma más eficiente de administrar tus responsabilidades!"
 
-## Software
+<h3 align="center">Task Organizer</h3>
 
 Dispositivo: `Android, iOS`
 versión: `v0.x`
@@ -38,10 +38,10 @@ Estado: `Desarrollo`
 App Store: `Beta v0.3`
 Play Store `No disponible`
 
-## Proyecto "Juntos Por Un Futuro Mejor"
+<h3 align="center">Proyecto "Juntos Por Un Futuro Mejor"</h3>
 En un colegio, un estudiante tiene dificultades para administrar su tiempo y concluir con sus responsabilidades académicas
 
-## Organizadores:
+<h3 align="center">Software</h3>
 Gerente General: Edson Carhuaricra
 Gerente de Producción: Alexis Mendez
 Gerente de logística: Pedro Caso
