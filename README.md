@@ -2,10 +2,7 @@
 
 <p align="center">Organiza tu vida, simplifica tus tareas, ¡Task Organizer te ayuda a lograrlo todo!"</p>
 
-<p align="center">
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL-blue.svg"></a>
-  <a href="https://github.com/mayTermux/awesomeshot/releases"><img src="https://img.shields.io/github/release/mayTermux/myTermux.svg"></a>
-</p>
+----
 
 <h3 align="center">Información</h3>
 
@@ -59,7 +56,7 @@ En un colegio, un estudiante tiene dificultades para administrar su tiempo y con
 > Esta aplicación esta desarrollada por los estudiantes de la Institución Educativa Mariscal Castilla
 
 > [!IMPORTANT]
-> Esta aplicación esta en desarrollo, por lo que aun no esta disponible en la Play Store
+> Esta aplicación aun esta en desarrollo, por lo que aun no esta disponible en la Play Store y App Store
 
 > [!WARNING]
 > Esta Nueva Aplicación agrega Tecnología API de terceros
