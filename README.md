@@ -7,16 +7,16 @@ Organizador de Tareas
 En un colegio, un estudiante tiene dificultades para administrar su tiempo y concluir con sus responsabilidades académicas
 
 ## Organizadores
-# Gerente General:
+### Gerente General:
 Edson Carhuaricra
-# Gerente de Producción:
+### Gerente de Producción:
 Alexis Mendez
-# Gerente de logística:
+### Gerente de logística:
 Pedro Caso
-# Gerente de Publicidad:
+### Gerente de Publicidad:
 Dark
-# Gerente de Comercialización:
+### Gerente de Comercialización:
 Anderson Canto
 
-## Patrocinado
+### Patrocinado
 Alexito Entertainment
