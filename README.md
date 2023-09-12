@@ -36,8 +36,8 @@ To-Do Listo es tu compañero confiable en la gestión de tareas, diseñado para 
 
 <h3 align="center">Disponible en las tiendas aplicativas</h3>
 
-- App Store: `Beta v0.3`
-- Play Store `No disponible`
+- App Store: `Testeo`
+- Play Store `Testeo`
 
 <h3 align="center">Proyecto "Juntos Por Un Futuro Mejor"</h3>
 En un colegio, un estudiante tiene dificultades para administrar su tiempo y concluir con sus responsabilidades académicas
