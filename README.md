@@ -22,7 +22,7 @@
 
 - **Sincronización Multiplataforma**: Accede a tus tareas desde cualquier dispositivo gracias a la sincronización en la nube.
 
-To-Do Listo es tu compañero confiable en la gestión de tareas, diseñado para estudiantes, profesionales y cualquier persona que busque mantenerse organizada en un mundo ocupado. Simplifica tu vida y aumenta tu productividad con Task Organizer. ¡Descarga la aplicación ahora y descubre una forma más eficiente de administrar tus responsabilidades!"
+To-Do Listo es tu compañero confiable en la gestión de tareas, diseñado para estudiantes, profesionales y cualquier persona que busque mantenerse organizada en un mundo ocupado. Simplifica tu vida y aumenta tu productividad con To-Do Listo. ¡Descarga la aplicación ahora y descubre una forma más eficiente de administrar tus responsabilidades!"
 
 <h3 align="center">Software</h3>
 
@@ -37,6 +37,7 @@ To-Do Listo es tu compañero confiable en la gestión de tareas, diseñado para 
 - Play Store `Testeo`
 
 <h3 align="center">Proyecto "Juntos Por Un Futuro Mejor"</h3>
+
 En un colegio, un estudiante tiene dificultades para administrar su tiempo y concluir con sus responsabilidades académicas
 
 <h3 align="center">Equipo</h3>
@@ -48,9 +49,10 @@ En un colegio, un estudiante tiene dificultades para administrar su tiempo y con
 - **Gerente de Comercialización**: Anderson Canto
 
 <h3 align="center">Patrocinador</h3>
+
 <p align="center">Alexito Entertainment</p>
 
-<p align="center">--------------</p>
+---
 
 > [!NOTE]
 > Esta aplicación esta desarrollada por los estudiantes de la Institución Educativa Mariscal Castilla
