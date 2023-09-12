@@ -42,11 +42,12 @@ Play Store `No disponible`
 En un colegio, un estudiante tiene dificultades para administrar su tiempo y concluir con sus responsabilidades académicas
 
 <h3 align="center">Grupo Cinco</h3>
-**Gerente General:** Edson Carhuaricra
-**Gerente de Producción:** Alexis Mendez
-**Gerente de logística:** Pedro Caso
-**Gerente de Publicidad:** Dark
-**Gerente de Comercialización:** Anderson Canto
+
+**Gerente General**: Edson Carhuaricra
+**Gerente de Producción**: Alexis Mendez
+**Gerente de logística**: Pedro Caso
+**Gerente de Publicidad**: Dark
+**Gerente de Comercialización**: Anderson Canto
 
 <h3 align="center">Patrocinador</h3>
 Alexito Entertainment
