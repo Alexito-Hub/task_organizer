@@ -25,3 +25,6 @@ Gerente de Comercialización: Anderson Canto
 
 ## Patrocinador:
 Alexito Entertainment
+
+> [!Nota]
+> Esta aplicación esta desarrollada por los estudiantes de la Institución Educativa Mariscal Castilla
