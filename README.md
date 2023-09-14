@@ -1,6 +1,6 @@
-<h2 align="center">To-Do Listo</h2>
+<h2 align="center">Task Organizer</h2>
 
-<p align="center">Organiza tu vida, simplifica tus tareas, ¡To-Do Listo te ayuda a lograrlo todo!"</p>
+<p align="center">Organiza tu vida, simplifica tus tareas, ¡Task Organizer te ayuda a lograrlo todo!"</p>
 
 <p align="center">
   <a href="#"><img title="Play Store" src="https://img.shields.io/badge/No-Google?logo=googleplay&label=Play%20Store&color=red"></a>
@@ -11,7 +11,7 @@
 
 <h3 align="center">Información</h3>
 
-"¡Bienvenido a `To-Do Listo`, la aplicación definitiva para llevar la gestión de tareas y la planificación de tu vida al siguiente nivel! Con Task Organizer, podrás organizar tus responsabilidades de manera efectiva y mantenerte al tanto de tus tareas diarias, semanales y mensuales de manera simple y eficiente.
+"¡Bienvenido a `Task Organizer`, la aplicación definitiva para llevar la gestión de tareas y la planificación de tu vida al siguiente nivel! Con Task Organizer, podrás organizar tus responsabilidades de manera efectiva y mantenerte al tanto de tus tareas diarias, semanales y mensuales de manera simple y eficiente.
 
 **Características Destacadas**:
 
@@ -27,7 +27,7 @@
 
 - **Sincronización Multiplataforma**: Accede a tus tareas desde cualquier dispositivo gracias a la sincronización en la nube.
 
-To-Do Listo es tu compañero confiable en la gestión de tareas, diseñado para estudiantes, profesionales y cualquier persona que busque mantenerse organizada en un mundo ocupado. Simplifica tu vida y aumenta tu productividad con To-Do Listo. ¡Descarga la aplicación ahora y descubre una forma más eficiente de administrar tus responsabilidades!"
+Task Organizer es tu compañero confiable en la gestión de tareas, diseñado para estudiantes, profesionales y cualquier persona que busque mantenerse organizada en un mundo ocupado. Simplifica tu vida y aumenta tu productividad con Task Organizer. ¡Descarga la aplicación ahora y descubre una forma más eficiente de administrar tus responsabilidades!"
 
 <h3 align="center">Software</h3>
 
@@ -51,7 +51,7 @@ To-Do Listo es tu compañero confiable en la gestión de tareas, diseñado para 
 - **Gerente de Producción**: Alexis Mendez
 - **Gerente de logística**: Pedro Caso
 - **Gerente de Publicidad**: Dark
-- **Gerente de Comercialización**: Anderson Canto
+- **Gerente de Comercialización**: Anderson Ccanto
 
 <h3 align="center">Patrocinador</h3>
 
