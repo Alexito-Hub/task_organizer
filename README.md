@@ -58,8 +58,16 @@ Task Organizer es tu compañero confiable en la gestión de tareas, diseñado pa
 
 <h3 align="center">Disponible en las tiendas aplicativas</h3>
 
-- App Store: `Testeo`
-- Play Store `Testeo`
+- **App Store**:
+  - Descarga la aplicación en la [App Store](https://link-a-tu-aplicacion-en-la-app-store) (iOS).
+
+- **Play Store**:
+  - Descarga la aplicación en la [Play Store](https://link-a-tu-aplicacion-en-la-play-store) (Android).
+
+Task Organizer está disponible en ambas tiendas aplicativas para dispositivos iOS y Android. ¡Haz clic en los enlaces de arriba para descargar la aplicación y comenzar a organizar tu vida de manera más eficiente!
+
+> [!IMPORTANT]
+> La aplicación aún está en desarrollo y puede estar sujeta a cambios y mejoras. ¡Gracias por tu apoyo y paciencia!
 
 <h3 align="center">Proyecto "Juntos Por Un Futuro Mejor"</h3>
 
