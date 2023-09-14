@@ -3,7 +3,7 @@
 <p align="center">Organiza tu vida, simplifica tus tareas, ¡To-Do Listo te ayuda a lograrlo todo!"</p>
 
 <p align="center">
-  <a align="center" href="#"><img title="App Store" src="https://img.shields.io/badge/Dispositivo_Movil-App"></a>
+  <a align="center" href="#"><img title="App Store" src="https://img.shields.io/badge/Disponible_En:-App"></a>
 </p>
 
 <p align="center">
