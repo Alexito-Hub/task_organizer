@@ -2,8 +2,7 @@
 
 <p align="center">Organiza tu vida, simplifica tus tareas, ¡To-Do Listo te ayuda a lograrlo todo!"</p>
 
-[![Author](https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github)](https://github.com/DikaArdnt)
-[![Recode](https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github)](https://github.com/zeeone-ofc/Alphabot-Md)
+<span style="background-color:#FF0000; padding: 5px; border-radius: 5px; color:#FFFFFF;">[App Store : No disponible](https://example.com)</span>
 ---
 
 <h3 align="center">Información</h3>
