@@ -2,7 +2,7 @@
 
 <p align="center">Organiza tu vida, simplifica tus tareas, ¡To-Do Listo te ayuda a lograrlo todo!"</p>
 
-<span style="background-color:#FF0000; padding: 5px; border-radius: 5px; color:#FFFFFF;">[App Store : No disponible](https://github.com/Alexito-Hub/to-do_listo/blob/V0.x/README.md)</span>
+<span style="background-color:#FF0000; padding: 5px; border-radius: 5px; color:#FFFFFF;">[App Store : No disponible](https://github.com/Alexito-Hub/to-do_listo)</span>
 ---
 
 <h3 align="center">Información</h3>
