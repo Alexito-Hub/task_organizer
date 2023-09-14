@@ -7,7 +7,7 @@
   <a href="#"><img title="App Store" src="https://img.shields.io/badge/Si-Google?logo=appstore&label=App%20Store&color=green"></a>
 </p>
 
----
+--
 
 <h3 align="center">Información</h3>
 
