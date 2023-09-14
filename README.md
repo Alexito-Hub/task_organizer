@@ -2,7 +2,10 @@
 
 <p align="center">Organiza tu vida, simplifica tus tareas, ¡To-Do Listo te ayuda a lograrlo todo!"</p>
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+<p align="center">
+<a href="#"><img title="App Store" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
 ---
 
 <h3 align="center">Información</h3>
