@@ -5,6 +5,7 @@
 <p align="center">
 <a href="#"><img title="App Store" src="https://img.shields.io/badge/App_Store-No-red"></a>
 </p>
+[App Store : No disponible](https://img.shields.io/badge/App%20Store-No%20disponible-blue)
 
 ---
 
