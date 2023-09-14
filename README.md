@@ -3,8 +3,8 @@
 <p align="center">Organiza tu vida, simplifica tus tareas, ¡Task Organizer te ayuda a lograrlo todo!"</p>
 
 <p align="center">
-  <a href="#"><img title="Play Store" src="https://img.shields.io/badge/No-Google?logo=googleplay&label=Play%20Store&color=red"></a>
-  <a href="#"><img title="App Store" src="https://img.shields.io/badge/Si-Google?logo=appstore&label=App%20Store&color=green"></a>
+  <a href="https://link-a-tu-aplicacion-en-la-play-store"><img title="Disponible en Play Store" src="https://img.shields.io/badge/Disponible%20en%20Play%20Store-Google%20Play-green"></a>
+  <a href="https://link-a-tu-aplicacion-en-la-app-store"><img title="Disponible en App Store" src="https://img.shields.io/badge/Disponible%20en%20App%20Store-App%20Store-blue"></a>
 </p>
 
 ---
@@ -52,12 +52,6 @@ Task Organizer es tu compañero confiable en la gestión de tareas, diseñado pa
   - Versión 0.1.1 (Agosto 2023): Nueva interfaz de usuario más intuitiva y corrección de errores menores.
   - Versión 0.1.0 (Julio 2023): Lanzamiento inicial de la aplicación.
 
-- **Compatibilidad Multiplataforma**:
-  - Task Organizer está disponible tanto en la `App Store` para dispositivos iOS como en la `Play Store` para dispositivos Android.
-
-- **Soporte Técnico**:
-  - Si tienes alguna pregunta o problema técnico, no dudes en contactarnos en [soporte@taskorganizer.com](mailto:soporte@taskorganizer.com).
-
 ---
 
 <h3 align="center">Disponible en las tiendas aplicativas</h3>
@@ -71,33 +65,34 @@ Task Organizer es tu compañero confiable en la gestión de tareas, diseñado pa
 Task Organizer está disponible en ambas tiendas aplicativas para dispositivos iOS y Android. ¡Haz clic en los enlaces de arriba para descargar la aplicación y comenzar a organizar tu vida de manera más eficiente!
 
 > [!IMPORTANT]
-> La aplicación aún está en desarrollo y puede estar sujeta a cambios y mejoras. ¡Gracias por tu apoyo y paciencia!
+> La aplicación aún está en desarrollo, por lo que puede estar sujeta a cambios y mejoras. ¡Gracias por tu apoyo y paciencia!
 
 ---
 
 <h3 align="center">Proyecto "Juntos Por Un Futuro Mejor"</h3>
 
-<p align="center">En un colegio, un estudiante tiene dificultades para administrar su tiempo y concluir con sus responsabilidades académicas</p>
+<p align="center">En un colegio, un estudiante tiene dificultades para administrar su tiempo y concluir con sus responsabilidades académicas. Con Task Organizer, estamos trabajando juntos para ayudar a los estudiantes a alcanzar su máximo potencial.</p>
 
 <h3 align="center">Equipo</h3>
 
 - **Gerente General**: Edson Carhuaricra
 - **Gerente de Producción**: Alexis Mendez
-- **Gerente de logística**: Pedro Caso
+- **Gerente de Logística**: Pedro Caso
 - **Gerente de Publicidad**: Dark
 - **Gerente de Comercialización**: Anderson Ccanto
 
 <h3 align="center">Patrocinador</h3>
 
-<p align="center">Alexito Entertainment</p>
-
----
+<p align="center">Task Organizer está orgullosamente patrocinado por Alexito Entertainment. Nuestra asociación con Alexito Entertainment nos permite ofrecerte esta poderosa herramienta de gestión de tareas de forma gratuita. Estamos agradecidos por su apoyo continuo en nuestro esfuerzo por ayudarte a ser más productivo y organizado.</p>
 
 > [!NOTE]
-> Esta aplicación esta desarrollada por los estudiantes de la Institución Educativa Mariscal Castilla
-
-> [!IMPORTANT]
-> Esta aplicación aun esta en desarrollo, por lo que aun no esta disponible en la Play Store y App Store
+> Esta aplicación fue desarrollada por los estudiantes de la Institución Educativa Mariscal Castilla.
 
 > [!WARNING]
-> Esta Nueva Aplicación agrega Tecnología API de terceros
+> Task Organizer utiliza tecnología API de terceros para ofrecer características avanzadas. Tu privacidad y seguridad son nuestra máxima prioridad, y seguimos estándares rigurosos para proteger tus datos.
+
+> [!TIP]
+> ¿Tienes alguna sugerencia o comentario? ¡Nos encantaría escucharte! Contáctanos en [feedback@taskorganizer.com](mailto:feedback@taskorganizer.com).
+
+> [!FAQ]
+> ¿Cómo puedo obtener acceso temprano a nuevas funciones y actualizaciones? ¡Únete a nuestro programa de beta testers hoy mismo!
