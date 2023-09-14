@@ -31,10 +31,30 @@ Task Organizer es tu compañero confiable en la gestión de tareas, diseñado pa
 
 <h3 align="center">Software</h3>
 
-- Dispositivo: `Android, iOS`
-- versión: `v0.x`
-- Inteligencia Artificial: `Yana AI`
-- Estado: `Desarrollo`
+- **Requisitos del Sistema**:
+  - Dispositivo: `Android, iOS`
+  - Versión mínima de Android: `Android 8.0`
+  - Versión mínima de iOS: `iOS 12.0`
+
+- **Características Técnicas**:
+  - **Gestión de Datos**: Utilizamos una robusta base de datos para garantizar un almacenamiento seguro y eficiente de tus tareas.
+  - **Inteligencia Artificial**: Task Organizer cuenta con la potencia de `Yana AI`, nuestra inteligencia artificial, para proporcionarte recomendaciones y mejorar tu productividad.
+  - **Sincronización en la Nube**: Tus datos se sincronizan automáticamente en todos tus dispositivos para que nunca pierdas información importante.
+
+- **Tecnologías Utilizadas**:
+  - Framework de Desarrollo: `Flutter`
+  - Lenguaje de Programación: `Dart`
+  - Base de Datos: `SQLite`
+
+- **Actualizaciones Recientes**:
+  - Versión 0.1.1 (Agosto 2023): Nueva interfaz de usuario más intuitiva y corrección de errores menores.
+  - Versión 0.1.0 (Julio 2023): Lanzamiento inicial de la aplicación.
+
+- **Compatibilidad Multiplataforma**:
+  - Task Organizer está disponible tanto en la `App Store` para dispositivos iOS como en la `Play Store` para dispositivos Android.
+
+- **Soporte Técnico**:
+  - Si tienes alguna pregunta o problema técnico, no dudes en contactarnos en [soporte@taskorganizer.com](mailto:soporte@taskorganizer.com).
 
 <h3 align="center">Disponible en las tiendas aplicativas</h3>
 
