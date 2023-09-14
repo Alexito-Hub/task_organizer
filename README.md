@@ -29,6 +29,8 @@
 
 Task Organizer es tu compañero confiable en la gestión de tareas, diseñado para estudiantes, profesionales y cualquier persona que busque mantenerse organizada en un mundo ocupado. Simplifica tu vida y aumenta tu productividad con Task Organizer. ¡Descarga la aplicación ahora y descubre una forma más eficiente de administrar tus responsabilidades!"
 
+---
+
 <h3 align="center">Software</h3>
 
 - **Requisitos del Sistema**:
@@ -56,6 +58,8 @@ Task Organizer es tu compañero confiable en la gestión de tareas, diseñado pa
 - **Soporte Técnico**:
   - Si tienes alguna pregunta o problema técnico, no dudes en contactarnos en [soporte@taskorganizer.com](mailto:soporte@taskorganizer.com).
 
+---
+
 <h3 align="center">Disponible en las tiendas aplicativas</h3>
 
 - **App Store**:
@@ -68,6 +72,8 @@ Task Organizer está disponible en ambas tiendas aplicativas para dispositivos i
 
 > [!IMPORTANT]
 > La aplicación aún está en desarrollo y puede estar sujeta a cambios y mejoras. ¡Gracias por tu apoyo y paciencia!
+
+---
 
 <h3 align="center">Proyecto "Juntos Por Un Futuro Mejor"</h3>
 
