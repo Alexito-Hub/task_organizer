@@ -4,6 +4,9 @@
 
 <p align="center">
   <a align="center" href="#"><img title="App Store" src="https://img.shields.io/badge/Dispositivo_Movil-App"></a>
+</p>
+
+<p align="center">
   <a href="#"><img title="Play Store" src="https://img.shields.io/badge/No-Google?logo=googleplay&label=Play%20Store&color=red"></a>
   <a href="#"><img title="App Store" src="https://img.shields.io/badge/No-Google?logo=appstore&label=App%20Store&color=red"></a>
 </p>
