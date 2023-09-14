@@ -3,8 +3,8 @@
 <p align="center">Organiza tu vida, simplifica tus tareas, ¡Task Organizer te ayuda a lograrlo todo!"</p>
 
 <p align="center">
-  <a href="https://link-a-tu-aplicacion-en-la-play-store"><img title="Disponible en Play Store" src="https://img.shields.io/badge/Disponible%20en%20Play%20Store-Google%20Play-green"></a>
-  <a href="https://link-a-tu-aplicacion-en-la-app-store"><img title="Disponible en App Store" src="https://img.shields.io/badge/Disponible%20en%20App%20Store-App%20Store-blue"></a>
+<a href="#"><img title="Play Store" src="https://img.shields.io/badge/No-Google?logo=googleplay&label=Play%20Store&color=red"></a>
+<a href="#"><img title="App Store" src="https://img.shields.io/badge/Si-Google?logo=appstore&label=App%20Store&color=green"></a>
 </p>
 
 ---
